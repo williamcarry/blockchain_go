@@ -1,3 +1,5 @@
+研究性质的简单实现，主要基于作者的几篇研究文章：
+
 # Blockchain in Go
 
 A blockchain implementation in Go, as described in these articles:
